@@ -1,8 +1,6 @@
-
-from asyncio import events
-from curses import window
-from tkinter.messagebox import showinfo, showerror
 from random import shuffle
+
+from tkinter.messagebox import showinfo, showerror
 import tkinter as tk
 from tkinter import Grid, Menu
 
